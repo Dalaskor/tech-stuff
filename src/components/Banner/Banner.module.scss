@@ -1,0 +1,37 @@
+.banner {
+  &__container {
+    background: #1D1C21;
+    border-radius: 1.4rem;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 700;
+    padding: 1rem 4rem;
+    gap: 1rem;
+  }
+
+  &__left {
+    h2 {
+      font-size: 3.2rem;
+      line-height: 4.2rem;
+    }
+  }
+
+  &__right {
+  }
+
+  &__img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 25.9rem;
+    max-height: 25.9rem;
+
+    img {
+      width: 25.9rem;
+      height: 25.9rem;
+      object-fit: contain;
+    }
+  }
+}

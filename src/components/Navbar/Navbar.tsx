@@ -7,7 +7,7 @@ export const Navbar = () => {
         <nav className={style.nav}>
             <ul className={style.nav__list}>
                 <li className={style.nav__item}>
-                    <NavLink end to={"/tech-staff/"}
+                    <NavLink end to={"/tech-stuff/"}
                              className={({isActive}) => isActive ? style.nav__link_active : style.nav__link}>menu</NavLink>
                 </li>
                 <li className={style.nav__item}>
