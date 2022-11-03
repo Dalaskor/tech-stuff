@@ -7,7 +7,7 @@ export const Header = () => {
     return (
         <header className={style.header}>
             <div className={style.header__container}>
-                <Link to={"/tech-stuff/"}>
+                <Link to={"/tech-stuff/"} className={style.header__logo}>
                     TECHSTUFF
                 </Link>
                 <Navbar/>

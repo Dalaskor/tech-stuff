@@ -1,0 +1,41 @@
+.catalog {
+  margin-top: 2.1rem;
+
+  &__container {
+    display: block;
+  }
+
+  &__nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+  }
+
+  &__navitem {
+    display: block;
+    font-weight: 500;
+    color: #1D1C21;
+    text-transform: uppercase;
+  }
+
+  &__navlink {
+    display: block;
+    padding: 1rem 3rem;
+    border-radius: 10px;
+    transition: all 0.3s ease-in;
+
+    &_active {
+      display: block;
+      padding: 1rem 3rem;
+      background: #1D1C21;
+      border-radius: 10px;
+      color: #FFFFFF;
+      transition: all 0.3s ease-in;
+    }
+  }
+
+  &__content {
+    margin-top: 2.1rem;
+  }
+}

@@ -7,19 +7,19 @@ export const Navbar = () => {
         <nav className={style.nav}>
             <ul className={style.nav__list}>
                 <li className={style.nav__item}>
-                    <NavLink end to={"/tech-stuff/"}
+                    <NavLink to={"/tech-stuff/"}
                              className={({isActive}) => isActive ? style.nav__link_active : style.nav__link}>menu</NavLink>
                 </li>
                 <li className={style.nav__item}>
-                    <NavLink to={"/tech-staff/delivery"}
+                    <NavLink to={"/tech-stuff/delivery"}
                              className={({isActive}) => isActive ? style.nav__link_active : style.nav__link}>delivery</NavLink>
                 </li>
                 <li className={style.nav__item}>
-                    <NavLink to={"/tech-staff/payment"}
+                    <NavLink to={"/tech-stuff/payment"}
                              className={({isActive}) => isActive ? style.nav__link_active : style.nav__link}>payment</NavLink>
                 </li>
                 <li className={style.nav__item}>
-                    <NavLink to={"/tech-staff/contacts"}
+                    <NavLink to={"/tech-stuff/contacts"}
                              className={({isActive}) => isActive ? style.nav__link_active : style.nav__link}>contacts</NavLink>
                 </li>
             </ul>

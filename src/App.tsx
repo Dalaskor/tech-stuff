@@ -11,7 +11,10 @@ export const App = () => {
             <Header/>
             <main className={"main"}>
                 <Routes>
-                    <Route path={"/tech-stuff/"} element={<MainPage/>}/>
+                    <Route path={"/tech-stuff/*"} element={<MainPage/>}/>
+                    <Route path={"/tech-stuff/delivery"} element={<div></div>}/>
+                    <Route path={"/tech-stuff/payment"} element={<div></div>}/>
+                    <Route path={"/tech-stuff/contacts"} element={<div></div>}/>
                 </Routes>
             </main>
             <Footer/>
