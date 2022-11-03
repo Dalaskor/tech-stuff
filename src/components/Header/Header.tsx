@@ -1,5 +1,6 @@
 import React from 'react';
 import style from './Header.module.scss';
+import {Navbar} from "../Navbar/Navbar";
 
 export const Header = () => {
     return (
@@ -8,6 +9,7 @@ export const Header = () => {
                 <div className={style.header__logo}>
                     TECHSTUFF
                 </div>
+                <Navbar/>
             </div>
         </header>
     )

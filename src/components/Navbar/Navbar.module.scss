@@ -1,0 +1,26 @@
+.nav {
+  &__list {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 2.4rem;
+  }
+
+  &__item {}
+
+  &__link {
+    color: #1D1C21;
+    transition: all 0.3s ease-in;
+
+    &_active {
+      color: #000000;
+      font-weight: 600;
+    }
+
+    &:hover {
+      cursor: pointer;
+      color: #000000;
+      font-weight: 500;
+    }
+  }
+}
