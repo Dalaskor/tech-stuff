@@ -5,7 +5,7 @@ import {Navbar} from "../Navbar/Navbar";
 export const Header = () => {
     return (
         <header className={style.header}>
-            <div className={'header__container'}>
+            <div className={style.header__container}>
                 <div className={style.header__logo}>
                     TECHSTUFF
                 </div>
