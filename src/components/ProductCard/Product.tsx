@@ -1,6 +1,7 @@
 import React from 'react';
 import style from './Product.module.scss';
 import {IProduct} from "../../model";
+import {Link} from "react-router-dom";
 
 interface ProductProps {
     product: IProduct,
@@ -25,9 +26,9 @@ export const Product = ({product}: ProductProps) => {
                         ${product.price}
                     </div>
                 </div>
-                <div className={style.card__btn}>
+                <Link to={'/tech-stuff/product/' + product.id} className={style.card__btn}>
                     BUY
-                </div>
+                </Link>
             </div>
         </div>
     )
