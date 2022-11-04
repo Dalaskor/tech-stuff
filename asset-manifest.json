@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.04b0d159.css",
-    "main.js": "/static/js/main.350b83a4.js",
-    "static/js/787.32a4d22a.chunk.js": "/static/js/787.32a4d22a.chunk.js",
-    "static/media/FiraCode-Medium.woff2": "/static/media/FiraCode-Medium.de7d2d83e4ff871326ed.woff2",
-    "static/media/FiraCode-Regular.woff2": "/static/media/FiraCode-Regular.53aa3ab2885bd9f999f6.woff2",
-    "static/media/FiraCode-SemiBold.woff2": "/static/media/FiraCode-SemiBold.b9d9b414627842b54998.woff2",
-    "static/media/FiraCode-Bold.woff2": "/static/media/FiraCode-Bold.48dd513b3afba7d68a38.woff2",
-    "static/media/FiraCode-Bold.ttf": "/static/media/FiraCode-Bold.160ed1ac4e45a09b43b5.ttf",
-    "static/media/FiraCode-SemiBold.ttf": "/static/media/FiraCode-SemiBold.22b9da93a0f5246491ab.ttf",
-    "static/media/FiraCode-Regular.ttf": "/static/media/FiraCode-Regular.fc45da4c3e5b90c232a2.ttf",
-    "static/media/FiraCode-Medium.ttf": "/static/media/FiraCode-Medium.a97c2faa159e7881c89a.ttf",
-    "static/media/FiraCode-SemiBold.woff": "/static/media/FiraCode-SemiBold.9a34e5a276358b828379.woff",
-    "static/media/FiraCode-Medium.woff": "/static/media/FiraCode-Medium.ee71825b350265d52839.woff",
-    "static/media/FiraCode-Regular.woff": "/static/media/FiraCode-Regular.69e6c3bd428bfd2ba13e.woff",
-    "static/media/FiraCode-Bold.woff": "/static/media/FiraCode-Bold.8e26f65eccc53aa06df8.woff",
-    "static/media/phone.png": "/static/media/phone.ff01b0fd39ae0553d8eb.png",
-    "index.html": "/index.html",
-    "main.04b0d159.css.map": "/static/css/main.04b0d159.css.map",
-    "main.350b83a4.js.map": "/static/js/main.350b83a4.js.map",
-    "787.32a4d22a.chunk.js.map": "/static/js/787.32a4d22a.chunk.js.map"
+    "main.css": "/tech-stuff/static/css/main.f271fd97.css",
+    "main.js": "/tech-stuff/static/js/main.1dbf3fd2.js",
+    "static/js/787.32a4d22a.chunk.js": "/tech-stuff/static/js/787.32a4d22a.chunk.js",
+    "static/media/FiraCode-Medium.woff2": "/tech-stuff/static/media/FiraCode-Medium.de7d2d83e4ff871326ed.woff2",
+    "static/media/FiraCode-Regular.woff2": "/tech-stuff/static/media/FiraCode-Regular.53aa3ab2885bd9f999f6.woff2",
+    "static/media/FiraCode-SemiBold.woff2": "/tech-stuff/static/media/FiraCode-SemiBold.b9d9b414627842b54998.woff2",
+    "static/media/FiraCode-Bold.woff2": "/tech-stuff/static/media/FiraCode-Bold.48dd513b3afba7d68a38.woff2",
+    "static/media/FiraCode-Bold.ttf": "/tech-stuff/static/media/FiraCode-Bold.160ed1ac4e45a09b43b5.ttf",
+    "static/media/FiraCode-SemiBold.ttf": "/tech-stuff/static/media/FiraCode-SemiBold.22b9da93a0f5246491ab.ttf",
+    "static/media/FiraCode-Regular.ttf": "/tech-stuff/static/media/FiraCode-Regular.fc45da4c3e5b90c232a2.ttf",
+    "static/media/FiraCode-Medium.ttf": "/tech-stuff/static/media/FiraCode-Medium.a97c2faa159e7881c89a.ttf",
+    "static/media/FiraCode-SemiBold.woff": "/tech-stuff/static/media/FiraCode-SemiBold.9a34e5a276358b828379.woff",
+    "static/media/FiraCode-Medium.woff": "/tech-stuff/static/media/FiraCode-Medium.ee71825b350265d52839.woff",
+    "static/media/FiraCode-Regular.woff": "/tech-stuff/static/media/FiraCode-Regular.69e6c3bd428bfd2ba13e.woff",
+    "static/media/FiraCode-Bold.woff": "/tech-stuff/static/media/FiraCode-Bold.8e26f65eccc53aa06df8.woff",
+    "static/media/phone.png": "/tech-stuff/static/media/phone.ff01b0fd39ae0553d8eb.png",
+    "index.html": "/tech-stuff/index.html",
+    "main.f271fd97.css.map": "/tech-stuff/static/css/main.f271fd97.css.map",
+    "main.1dbf3fd2.js.map": "/tech-stuff/static/js/main.1dbf3fd2.js.map",
+    "787.32a4d22a.chunk.js.map": "/tech-stuff/static/js/787.32a4d22a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04b0d159.css",
-    "static/js/main.350b83a4.js"
+    "static/css/main.f271fd97.css",
+    "static/js/main.1dbf3fd2.js"
   ]
 }
