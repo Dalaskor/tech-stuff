@@ -1,5 +1,7 @@
 # React App with Redux
-DEMO: https://dalaskor.github.io/tech-stuff/
+[View](https://dalaskor.github.io/tech-stuff/)
+
+![Preview](https://github.com/Dalaskor/tech-stuff/blob/master/src/assets/Preview.png?raw=true)
 
 # Getting Started with Create React App
 
